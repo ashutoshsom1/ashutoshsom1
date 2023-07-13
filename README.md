@@ -62,5 +62,14 @@
       </p>
     </div>
   </div>
+
+  <div class="section">
+    <h2 class="section-title">AI Expertise</h2>
+    <div class="section-content">
+      <p>
+        <span class="ai-icon">&#127780;</span> Artificial Intelligence
+      </p>
+    </div>
+  </div>
 </body>
 </html>
